@@ -1,7 +1,6 @@
 ![Apache NiFi logo](http://nifi.apache.org/images/niFi-logo-horizontal.png "Apache NiFi")
 # dockerfile-apache-nifi
 ## Version 1.1.1
-Based on aldrin/apache-nifi code originally.
 
 ### Apache NiFi Dockerfile
 
@@ -13,7 +12,7 @@ From your checkout directory:
 		
 1. Build the image
 
-        docker build -t bstucker/apache-nifi .
+        docker build -t aldrin/apache-nifi .
 		
 2. Run the image 
 
